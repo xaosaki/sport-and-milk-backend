@@ -1,0 +1,4 @@
+{"createdAt":1557050731627,"updatedAt":1557064918154,"id":1,"title":"Кофишка","coordinates":"{\"lat\":\"34.20\", \"lon\":\"48.50\"} ","openAt":"","closeAt":"","description":"","type":1,"_id":1}
+{"createdAt":1557055730967,"updatedAt":1557062545284,"id":2,"title":"Кофе шоуп","coordinates":"{\"lat\":\"34.20\", \"lon\":\"48.50\"} ","openAt":"","closeAt":"","description":"","type":1,"_id":2}
+{"createdAt":1557058195144,"updatedAt":1557062542248,"id":3,"title":"Сильпо","coordinates":"{\"lat\":\"34.20\", \"lon\":\"48.50\"} ","openAt":"","closeAt":"","description":"","type":2,"_id":3}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}

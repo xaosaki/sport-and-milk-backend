@@ -1,0 +1,3 @@
+{"updatedAt":1557050691105,"createdAt":1557050691105,"id":1,"name":"Кофейня","_id":1}
+{"id":2,"name":"Магазин","_id":2}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}

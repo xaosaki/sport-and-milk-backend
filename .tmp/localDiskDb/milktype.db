@@ -1,0 +1,4 @@
+{"id":1,"name":"Овсяное","_id":1}
+{"id":2,"name":"Рисовое","_id":2}
+{"id":3,"name":"Мутное","_id":3}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}

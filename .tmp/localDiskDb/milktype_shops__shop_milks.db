@@ -1,0 +1,6 @@
+{"shop_milks":3,"milktype_shops":1,"id":3,"_id":3}
+{"shop_milks":3,"milktype_shops":2,"id":4,"_id":4}
+{"shop_milks":2,"milktype_shops":1,"id":5,"_id":5}
+{"shop_milks":2,"milktype_shops":2,"id":6,"_id":6}
+{"shop_milks":1,"milktype_shops":3,"id":7,"_id":7}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
