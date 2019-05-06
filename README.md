@@ -2,6 +2,13 @@
 
 a [Sails v1](https://sailsjs.com) application
 
+### Instalation
+* Install actual node.js 
+* Install sails globaly `npm install sails -g`
+* Clone/download project
+* Open project folder in terminal
+* Run command `sails lift`
+
 
 ### Links
 
